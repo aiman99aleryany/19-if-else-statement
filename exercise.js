@@ -1,4 +1,4 @@
-let name = "aiman";
-let surname = "Al Erayny";
+let name;
+let surname = "Rossi";
 
 console.log(name && surname ? name + " " + surname : "Full name is invalid");
